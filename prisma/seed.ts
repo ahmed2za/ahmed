@@ -22,6 +22,7 @@ async function main() {
         name: 'Admin',
         password: adminPassword,
         role: 'ADMIN',
+        status: 'ACTIVE'
       },
     });
 
